@@ -1,0 +1,14 @@
+numpy>=1.23.0
+astropy>=5.0.5
+pint-pandas
+pint-pulsar
+pyerfa
+scipy>=1.9.0
+jplephem>=2.6
+matplotlib>=3.4.3
+emcee>=3.0.1
+corner>=2.0.1
+uncertainties
+loguru
+nestle>=0.2.0
+numdifftools
