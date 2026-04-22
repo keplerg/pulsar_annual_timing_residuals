@@ -8,3 +8,5 @@ uv venv
 uv pip install -r requirements.txt
 uv run vlbi_frozen_analysis.py
 ```
+
+You also need to download the pulsar timing dataset from [https://zenodo.org/records/16051178](Zenodo)
