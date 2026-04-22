@@ -9,4 +9,4 @@ uv pip install -r requirements.txt
 uv run vlbi_frozen_analysis.py
 ```
 
-You also need to download the pulsar timing dataset from [Zenodo]([Zenodo](https://zenodo.org/records/16051178))
+You also need to download the pulsar timing dataset from [Zenodo](https://zenodo.org/records/16051178). Uncompress the data into the the same directory as the scripts or you will need to change BASE in pulsar_data.py
